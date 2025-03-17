@@ -1,0 +1,13 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "Thiago's Advanced Github Notes"
+  navbar: 
+    background: primary
+    search: true
+
+format:
+  html:
+    theme: lux
